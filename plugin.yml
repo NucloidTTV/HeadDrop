@@ -1,0 +1,6 @@
+name: HeadDrop
+main: me.baks.hd.Main
+version: 2.3.3
+author: Baksovic | Skype baksovic2
+commands:
+  headdrop:
